@@ -5,7 +5,7 @@
 * An data analysis was made on the effect of the web page on the top ranks. 
 * For data analysis , The results was listed and save on CSV file.
 
-:yellow_circle: **Title (How Many Characters, How Many Words, H1 Words Are In It, etc.)** &nbsp;
+:yellow_circle: **Title (How Many Characters, How Many Words, H1 Words Are In It, etc.)** \
 :yellow_circle: **H1 (How Many Times Used).** 
 
 ## Requirements
