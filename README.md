@@ -12,9 +12,9 @@
 
 There are some general library requirements for the Project. The general requirements are as follows.
 
-*	Numpy
-*	Pandas
-*	GoogleSearch
-*	BeautifulSoup
-*	Requests
+:heavy_check_mark:	Numpy \
+:heavy_check_mark:	Pandas \
+:heavy_check_mark:	GoogleSearch \
+:heavy_check_mark:	BeautifulSoup \
+:heavy_check_mark:	Requests
 
